@@ -3,7 +3,10 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&width=500&lines=Languages+and+Tools" alt="Typing SVG" />
+</h3>
+
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
