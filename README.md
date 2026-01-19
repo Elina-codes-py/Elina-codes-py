@@ -1,4 +1,4 @@
-<h2 align="left">Hello! Welcome to my Profie, I'm Elina Magar</h2>
+
 <h3 align="left">Python Developer | Backend Engineer | Data Analytics Enthusiast</h3>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
