@@ -4,7 +4,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFF00&width=300&lines=Languages+and+Tools" alt="Animated Languages and Tools" />
+  <img src="https://font=Fira+Code&size=28&duration=3000&pause=500&color=FFFF00&width=300&lines=Languages+and+Tools" alt="Animated Languages and Tools" />
 </h3>
 
 
