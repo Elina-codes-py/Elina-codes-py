@@ -1,5 +1,5 @@
 
-<h3 align="left">Python|Full Stack Developer| AI/ML Enthusiast</h3>
+<h3 align="left">Python| Full Stack Developer| AI/ML Enthusiast</h3>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
@@ -76,10 +76,6 @@
 
 <br> 
 
-<!-- GitHub Stats Card -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elina-codes-py&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 
 <!-- Animated Text -->
