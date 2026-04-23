@@ -27,10 +27,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 
-  <a href="https://x.com/elenapun11" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
-  </a>
-
   <a href="https://www.linkedin.com/in/elina-pun-magar-2a8594361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
