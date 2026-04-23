@@ -21,7 +21,6 @@
 
 <br clear="both">
 
-<h3 align="left">✨ Growth is a Journey, not a race.</h3>
 
 <div align="left">
   <a href="mailto:epunmagar6@gmail.com">
