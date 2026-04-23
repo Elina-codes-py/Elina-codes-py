@@ -1,4 +1,4 @@
-<h3 align="left">Django | Rest Django | Backend Developer | AI/ML Enthusiast</h3>
+<h3 align="left">Django | Django REST framework | Backend Developer | AI/ML Enthusiast</h3>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
@@ -19,7 +19,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="40" alt="REST API"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
   </tr>
 </table>
@@ -29,11 +28,11 @@
 <h3 align="left">✨ Growth is a Journey, not a race.</h3>
 
 <div align="left">
-  <a href="https://instagram.com/eleenapun?igsh=MXdoeDVqa3N6cTc3bA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
-  <a href="mailto:epunmagar6@gmail.com" target="_blank">
+  <a href="mailto:epunmagar6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://x.com/elenapun11" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/elina-pun-magar-2a8594361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
